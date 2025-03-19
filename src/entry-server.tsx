@@ -1,7 +1,7 @@
 import React from 'react'
 import { type RenderToPipeableStreamOptions, renderToPipeableStream } from 'react-dom/server'
 import { StaticRouter } from 'react-router-dom/server'
-import { Router } from './router'
+import { Router } from './App'
 
 
 
